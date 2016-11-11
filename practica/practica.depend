@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478877293 source:c:\users\alumno-a\desktop\practica\main.cpp
+	<iostream>
+	<vector>
+	<map>
+
